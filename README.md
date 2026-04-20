@@ -22,7 +22,7 @@ Sou um entusiasta da tecnologia, sempre em busca de novos desafios e aprendizado
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="48" height="48" alt="Java" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="48" height="48" alt="Spring Boot" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="48" height="48" alt="MySql" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="48" height="48" alt="Postgres" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" height="48" alt="Docker" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" height="48" alt="Git" />
 </p>
 
